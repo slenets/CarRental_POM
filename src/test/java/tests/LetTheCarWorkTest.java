@@ -18,6 +18,7 @@ public class LetTheCarWorkTest extends TestBase {
 
     }
 
+    // hello
     @Test
     public void addCarRequiredFieldsValid() throws InterruptedException {
         //Thread.sleep(1000);
